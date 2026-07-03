@@ -51,18 +51,18 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Project 1 — REST API System
-- Built with ASP.NET Core Web API
+### 🔹 REST API System
+- ASP.NET Core Web API
 - JWT Authentication & Authorization
-- Clean Architecture (Controller / Service / Repository layers)
+- Clean Architecture (Controller / Service / Repository)
 - SQL Server integration
 
-### 🔹 Project 2 — Task Management System
+### 🔹 Task Management System
 - CRUD operations with validation
 - Role-based access control
 - Swagger API documentation
 
-### 🔹 Project 3 — Problem Solving Repository
+### 🔹 Problem Solving Repository
 - Data Structures & Algorithms in C#
 - LeetCode-style solutions
 - Focus on optimization and clean code
@@ -72,7 +72,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahedkhalaileh&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahedkhalaileh&show_icons=true&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shahedkhalaileh&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahedkhalaileh&layout=compact&theme=tokyonight" />
 </p>
 
 ---
