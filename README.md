@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi, I'm Shahed Al Khalailah 👨‍💻</h1>
-<h3 align="center">.NET Backend Developer | Problem Solver | Tech Enthusiast 🚀</h3>
+<h3 align="center">.NET Backend Developer | Problem Solver | Software Engineer 🚀</h3>
 
 <p align="center">
   <a href="https://github.com/Shahedkhalaileh">
@@ -18,21 +18,21 @@
 
 ## 👩‍💻 About Me
 
-- 🎯 I’m a **.NET Developer** focused on building scalable backend systems  
-- 🧠 I enjoy solving algorithms & data structure problems  
-- 🔥 Passionate about writing clean, maintainable, production-ready code  
-- 📚 Currently improving my skills in **ASP.NET Core, APIs, and System Design**  
-- 🚀 Seeking opportunities to grow as a backend software engineer  
+- 🎯 .NET Backend Developer focused on building scalable systems  
+- 🧠 Strong interest in algorithms and problem solving  
+- 🔥 Passionate about clean code, architecture, and performance  
+- 📚 Currently improving skills in ASP.NET Core, APIs, and System Design  
+- 🚀 Looking for opportunities as a Backend Software Engineer  
 
 ---
 
 ## 🧩 What I Do
 
-- 🔹 Build RESTful APIs using **ASP.NET Core**
-- 🔹 Design and manage databases using **SQL Server**
-- 🔹 Apply clean architecture principles (SOLID, layered architecture)
-- 🔹 Solve algorithmic problems using **C#**
-- 🔹 Work with design patterns and best practices
+- 🔹 Build RESTful APIs using ASP.NET Core  
+- 🔹 Design relational databases (SQL Server)  
+- 🔹 Apply Clean Architecture & SOLID principles  
+- 🔹 Solve Data Structures & Algorithms problems in C#  
+- 🔹 Work with Design Patterns in real projects  
 
 ---
 
@@ -52,20 +52,20 @@
 ## 🚀 Featured Projects
 
 ### 🔹 REST API System
-- ASP.NET Core Web API
-- JWT Authentication & Authorization
-- Clean Architecture (Controller / Service / Repository)
-- SQL Server integration
+- Built using ASP.NET Core Web API  
+- JWT Authentication & Authorization  
+- Clean Architecture (Controller / Service / Repository)  
+- SQL Server integration  
 
 ### 🔹 Task Management System
-- CRUD operations with validation
-- Role-based access control
-- Swagger API documentation
+- CRUD operations with validation  
+- Role-based access control  
+- Swagger API documentation  
 
 ### 🔹 Problem Solving Repository
-- Data Structures & Algorithms in C#
-- LeetCode-style solutions
-- Focus on optimization and clean code
+- Data Structures & Algorithms in C#  
+- LeetCode-style solutions  
+- Focus on optimization and clean code  
 
 ---
 
@@ -76,11 +76,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shahedkhalaileh&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahedkhalaileh&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahedkhalaileh&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
 ---
